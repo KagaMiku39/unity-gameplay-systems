@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Collect Apples",
+        "description": "Hold 10 apples in your inventory.",
+        "questType": "PossessItem",
+        "targetItemId": 1,
+        "requiredAmount": 10,
+        "nextQuestId": 2
+    },
+    {
+        "id": 2,
+        "title": "Prepare for Planting",
+        "description": "Hold 20 wheat seeds in your inventory.",
+        "questType": "PossessItem",
+        "targetItemId": 2,
+        "requiredAmount": 20,
+        "nextQuestId": 0
+    }
+]

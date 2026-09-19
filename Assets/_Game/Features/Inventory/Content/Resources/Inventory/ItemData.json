@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "iconPath": "Inventory/Icons/apple",
+        "description": "A fresh apple.",
+        "itemType": "Food",
+        "isStackable": true,
+        "maxStack": 20,
+        "buyPrice": 5,
+        "sellPrice": 2
+    },
+    {
+        "id": 2,
+        "name": "WheatSeed",
+        "iconPath": "Inventory/Icons/wheat_seed",
+        "description": "A seed that grows into wheat.",
+        "itemType": "Seed",
+        "isStackable": true,
+        "maxStack": 99,
+        "buyPrice": 3,
+        "sellPrice": 1
+    },
+    {
+        "id": 3,
+        "name": "Hoe",
+        "iconPath": "Inventory/Icons/hoe",
+        "description": "A farming tool used to till soil.",
+        "itemType": "Tool",
+        "isStackable": false,
+        "maxStack": 1,
+        "buyPrice": 100,
+        "sellPrice": 40
+    }
+]

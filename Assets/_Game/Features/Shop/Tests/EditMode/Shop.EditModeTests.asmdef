@@ -1,0 +1,23 @@
+{
+    "name": "Shop.EditModeTests",
+    "rootNamespace": "",
+    "references": [
+        "Shared.Runtime",
+        "Inventory.Runtime",
+        "Shop.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
